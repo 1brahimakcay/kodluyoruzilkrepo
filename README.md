@@ -1,5 +1,8 @@
 # Kodluyoruz ilk repo
+
 Bu repo [kodluyoruz](https://kodluyoruz.org/tr/kodluyoruz/) Front-End eğitiminde oluşturduğumuz ilk repo.
+
+<img src="https://raw.githubusercontent.com/Kodluyoruz/taskforce/main/git/odev1/figures/github.png" alt="Kodluyoruz" style="max-width: 100%;">
 
 **Installation**
 
